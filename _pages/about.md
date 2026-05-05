@@ -35,7 +35,10 @@ Hanchun Lin, **Xiaonan Xu**<sup>∗</sup>, Binbin Luo<sup>∗</sup>, Yiyuan Yuan
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12* "Outstanding Student" of the Year
+- *2025.11* Third Prize, Outstanding Student Scholarship
+- *2024.11* Second Prize, Outstanding Student Scholarship
+- *2024.10* "Futurui" Scholarship, Department of Biomedical Engineering
 
 
 # 📖 Educations
