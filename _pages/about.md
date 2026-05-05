@@ -29,7 +29,6 @@ My research interest includes EEG.
 
 Hanchun Lin, **Xiaonan Xu**<sup>∗</sup>, Binbin Luo<sup>∗</sup>, Yiyuan Yuan, Yuyang Zhang, Yuzhou Lin<sup>†</sup>, and Mingming Zhang<sup>†</sup>
 
-[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11165727)
 - **Keywords:** Class-Incremental Learning, Catastrophic Forgetting, sEMG, Locomotion Modes Prediction.
 
 </div>
