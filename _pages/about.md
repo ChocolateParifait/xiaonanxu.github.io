@@ -20,6 +20,14 @@ redirect_from:
 My research interest includes EEG.
 
 
+# 📚 Academic Performance
+- **Major:** Intelligent Medical Engineering
+- **Rank:** 1/49 (Top 2%)
+- **GPA:** 3.92 / 4.0
+- **Weighted Average Score:** 93.96
+- **CET-4:** 673 &nbsp;|&nbsp; **CET-6:** 665
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">M2VIP 2025</div><img src='images/sEMG.png' alt="sEMG" width="100%"></div></div>
@@ -34,7 +42,7 @@ Hanchun Lin, **Xiaonan Xu**<sup>∗</sup>, Binbin Luo<sup>∗</sup>, Yiyuan Yuan
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2025.12* "Outstanding Student" of the Year
 - *2025.11* Third Prize, Outstanding Student Scholarship
 - *2024.11* Second Prize, Outstanding Student Scholarship
