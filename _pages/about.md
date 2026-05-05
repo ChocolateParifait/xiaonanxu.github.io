@@ -22,30 +22,30 @@ My research interest includes EEG.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">M2VIP 2025</div><img src='images/sEMG.jpg' alt="sEMG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">M2VIP 2025</div><img src='images/sEMG.png' alt="sEMG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Class-Incremental Learning for Myoelectric Locomotion Modes Prediction: Evaluating Replay Strategies Against Catastrophic Forgetting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11165727)
 
-Hanchun Lin, **Xiaonan Xu**<sup>∗</sup>, Binbin Luo<sup>∗</sup>, Yiyuan Yuan, Yuyang Zhang, Yuzhou Lin<sup>†</sup>, Member, IEEE, and Mingming Zhang<sup>†</sup>, Senior Member, IEEE
+Hanchun Lin, **Xiaonan Xu**<sup>∗</sup>, Binbin Luo<sup>∗</sup>, Yiyuan Yuan, Yuyang Zhang, Yuzhou Lin<sup>†</sup>, and Mingming Zhang<sup>†</sup>
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11165727)
-- *2025 31st International Conference on Mechatronics and Machine Vision in Practice (M2VIP)*, Taguig, Philippines, 2025, pp. 159-165, doi: 10.1109/M2VIP67511.2025.11165727.
+- **Keywords:** Class-Incremental Learning, Catastrophic Forgetting, sEMG, Locomotion Modes Prediction.
 
 </div>
 </div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06*, Southern University of Science and Technology. 
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
