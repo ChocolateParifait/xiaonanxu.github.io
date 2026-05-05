@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes EEG.
+I am currently a junior majoring in Intelligent Medical Engineering at Southern University of Science and Technology. My research interests include neural signal decoding, medical image analysis, and exploring the mechanisms of brain diseases.
 
 
 # 📚 Academic Performance
@@ -25,7 +25,7 @@ My research interest includes EEG.
 - **Rank:** 1/49 (Top 2%)
 - **GPA:** 3.92 / 4.0
 - **Weighted Average Score:** 93.96
-- **CET-4:** 673 &nbsp;|&nbsp; **CET-6:** 665
+- **CET-4:** 673  **CET-6:** 665
 
 
 # 📝 Publications 
