@@ -22,7 +22,7 @@ My research interest includes EEG.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">M2VIP 2025</div><img src='images/sEMG.png' alt="sEMG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">M2VIP 2025</div><img src='images/sEMG.jpg' alt="sEMG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Class-Incremental Learning for Myoelectric Locomotion Modes Prediction: Evaluating Replay Strategies Against Catastrophic Forgetting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11165727)
