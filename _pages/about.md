@@ -27,7 +27,7 @@ My research interest includes EEG.
 
 [Class-Incremental Learning for Myoelectric Locomotion Modes Prediction: Evaluating Replay Strategies Against Catastrophic Forgetting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11165727)
 
-H. Lin, **Xiaonan Xu**, et al.
+Hanchun Lin, **Xiaonan Xu**<sup>∗</sup>, Binbin Luo<sup>∗</sup>, Yiyuan Yuan, Yuyang Zhang, Yuzhou Lin<sup>†</sup>, Member, IEEE, and Mingming Zhang<sup>†</sup>, Senior Member, IEEE
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11165727)
 - *2025 31st International Conference on Mechatronics and Machine Vision in Practice (M2VIP)*, Taguig, Philippines, 2025, pp. 159-165, doi: 10.1109/M2VIP67511.2025.11165727.
